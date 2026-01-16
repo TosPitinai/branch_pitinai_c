@@ -75,5 +75,5 @@ Open Web and verify coin
     Open Web        ${url}
     Go to Trading Market Page
     Verify coins name in table    Bitcoin   Ethereum    Moo Deng    USD Tether
-    Verify coins price by name     Ethereum     30000
+    Verify coins price by name     Ethereum     40000
     Close Web
